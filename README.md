@@ -1,2 +1,2 @@
 # musica-y-matematicas
-Charla sobre Música y matemáticas para libreim
+Diapositivas de la charla sobre Música y matemáticas para libreim
